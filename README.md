@@ -2,4 +2,6 @@
 
 
 Change the to mail id in the code <br />
-pass  name and email in the post request
+Change the from mail id <br />
+pass  name and email in the post request <br />
+
